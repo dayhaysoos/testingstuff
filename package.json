@@ -1,0 +1,22 @@
+{
+  "name": "testingstuff",
+  "version": "1.0.0",
+  "description": "testing and practice for Pariss :)",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ndejesus1227/testingstuff.git"
+  },
+  "author": "Nick",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ndejesus1227/testingstuff/issues"
+  },
+  "homepage": "https://github.com/ndejesus1227/testingstuff#readme",
+  "devDependencies": {
+    "webpack": "^2.3.3"
+  }
+}
