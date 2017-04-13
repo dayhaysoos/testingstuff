@@ -7,5 +7,11 @@ class Nick extends Component {
     )
   }
 }
-
+class Parissita extends Component {
+  render() {
+    return (
+      <h2>is craving chocolate</h2>
+    )
+  }
+}
 export default Nick;
