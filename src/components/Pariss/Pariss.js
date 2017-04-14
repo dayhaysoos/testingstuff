@@ -3,7 +3,7 @@ import React , { Component } from 'react';
 class Pariss extends Component{
   render(){
     return(
-      <span>wants chocolate</span>
+      <span className="pariss-is-cool">wants chocolate</span>
       )
   }
 }
